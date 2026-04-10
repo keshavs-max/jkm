@@ -1,0 +1,53 @@
+[
+  {
+    "product_code": "SL001",
+    "name": "Garden Path Solar Light",
+    "description": "Sturdy pathway light with high-efficiency solar panel and warm white LEDs.",
+    "category": "garden",
+    "min_order_qty": 10,
+    "price": 450,
+    "images": [
+      "/images/products/SL001/1.jpg"
+    ],
+    "attributes": {
+      "wattage": "1W",
+      "material": "ABS plastic",
+      "runtime": "8+ hours",
+      "protection": "IP65"
+    }
+  },
+  {
+    "product_code": "SL002",
+    "name": "Wall Mounted Solar Lantern",
+    "description": "Elegant wall light with motion-sensing mode and strong weatherproof construction.",
+    "category": "wall",
+    "min_order_qty": 5,
+    "price": 680,
+    "images": [
+      "/images/products/SL002/1.jpg"
+    ],
+    "attributes": {
+      "wattage": "2W",
+      "material": "Metal + glass",
+      "runtime": "10 hours",
+      "sensor": "Motion activated"
+    }
+  },
+  {
+    "product_code": "SL003",
+    "name": "Landscape Spotlight",
+    "description": "Compact spotlight for accenting plants, architecture, and outdoor artwork.",
+    "category": "spot",
+    "min_order_qty": 3,
+    "price": 950,
+    "images": [
+      "/images/products/SL003/1.jpg"
+    ],
+    "attributes": {
+      "wattage": "3W",
+      "material": "Aluminium",
+      "beam_angle": "120°",
+      "mount": "Ground spike"
+    }
+  }
+]

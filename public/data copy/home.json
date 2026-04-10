@@ -1,0 +1,26 @@
+[
+  {
+    "type": "hero",
+    "title": "Bring reliable solar lighting to every outdoor corner.",
+    "description": "Energy-efficient, durable solar lights designed for gardens, walkways, and patios.",
+    "link": "/products"
+  },
+  {
+    "type": "service",
+    "title": "Garden Path Lighting",
+    "description": "Create safe, beautiful walkways with long-lasting solar path lights.",
+    "link": "/products"
+  },
+  {
+    "type": "service",
+    "title": "Landscape Illumination",
+    "description": "Highlight your landscape with robust lights that work automatically after dark.",
+    "link": "/contact"
+  },
+  {
+    "type": "service",
+    "title": "Bulk Ordering",
+    "description": "Get the right solar lighting package for your project, available at competitive prices.",
+    "link": "/products"
+  }
+]

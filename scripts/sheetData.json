@@ -1,0 +1,139 @@
+{
+  "site_config": [
+    {
+      "site_title": "My Solar Website",
+      "meta_description": "Premium solar and garden lights for homes, paths, and outdoor spaces.",
+      "favicon_url": "/favicon.ico",
+      "whatsapp_number": "919999999999",
+      "email": "info@solarlightsstore.com",
+      "phone": "+91 99999 99999",
+      "address": "123 Solar Avenue, Green City",
+      "google_form_link": "https://docs.google.com/forms/d/e/1FAIpQLScTyuF_M7250SR1IB-H4xHGxv_GtUFvwecEHcMJqG9NLQ8_xg/viewform?usp=publish-editor",
+      "google_map_embed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18...'></iframe>",
+      "ga_id": "G-XXXXXXX",
+      "gtm_id": "GTM-XXXXXXX"
+    }
+  ],
+  "products": [
+    {
+      "product_code": "SL001",
+      "name": "Garden Path Solar Light",
+      "description": "Sturdy pathway light with high-efficiency solar panel and warm white LEDs.",
+      "category": "garden",
+      "min_order_qty": "10",
+      "price": "450",
+      "images": "[\"/images/products/SL001/1.svg\"]",
+      "attributes_wattage": "1W",
+      "attributes_material": "ABS plastic",
+      "attributes_runtime": "8+ hours",
+      "attributes_protection": "IP65",
+      "attributes_sensor": "",
+      "attributes_beam_angle": "",
+      "attributes_mount": ""
+    },
+    {
+      "product_code": "SL002",
+      "name": "Wall Mounted Solar Lantern",
+      "description": "Elegant wall light with motion-sensing mode and strong weatherproof construction.",
+      "category": "wall",
+      "min_order_qty": "5",
+      "price": "680",
+      "images": "[\"https://via.placeholder.com/800x600?text=Solar+Wall+Light\"]",
+      "attributes_wattage": "2W",
+      "attributes_material": "Metal + glass",
+      "attributes_runtime": "10 hours",
+      "attributes_protection": "",
+      "attributes_sensor": "Motion activated",
+      "attributes_beam_angle": "",
+      "attributes_mount": ""
+    },
+    {
+      "product_code": "SL003",
+      "name": "Landscape Spotlight",
+      "description": "Compact spotlight for accenting plants, architecture, and outdoor artwork.",
+      "category": "spot",
+      "min_order_qty": "3",
+      "price": "950",
+      "images": "[\"https://via.placeholder.com/800x600?text=Solar+Spotlight\"]",
+      "attributes_wattage": "3W",
+      "attributes_material": "Aluminium",
+      "attributes_runtime": "",
+      "attributes_protection": "",
+      "attributes_sensor": "",
+      "attributes_beam_angle": "120°",
+      "attributes_mount": "Ground spike"
+    }
+  ],
+  "categories": [
+    {
+      "id": "garden",
+      "name": "Garden Lights",
+      "description": "Deck out outdoor areas with decorative pathway and garden lights."
+    },
+    {
+      "id": "wall",
+      "name": "Wall Lights",
+      "description": "Wall-mounted solar fixtures for porches and facades."
+    },
+    {
+      "id": "spot",
+      "name": "Spotlights",
+      "description": "High-output spotlights for landscaping and security."
+    }
+  ],
+  "homepage": [
+    {
+      "type": "hero",
+      "title": "Bring reliable solar lighting to every outdoor corner.",
+      "description": "Energy-efficient, durable solar lights designed for gardens, walkways, and patios.",
+      "link": "/products"
+    },
+    {
+      "type": "service",
+      "title": "Garden Path Lighting",
+      "description": "Create safe, beautiful walkways with long-lasting solar path lights.",
+      "link": "/products"
+    },
+    {
+      "type": "service",
+      "title": "Landscape Illumination",
+      "description": "Highlight your landscape with robust lights that work automatically after dark.",
+      "link": "/contact"
+    },
+    {
+      "type": "service",
+      "title": "Bulk Ordering",
+      "description": "Get the right solar lighting package for your project, available at competitive prices.",
+      "link": "/products"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Keshav Singh",
+      "message": "my message",
+      "rating": "8"
+    },
+    {
+      "name": "Akash Gupta",
+      "message": "Best service provided",
+      "rating": "10"
+    }
+  ],
+  "about": [
+    {
+      "order": "1",
+      "heading": "Solar products built for every climate",
+      "paragraph": "Our solar lighting systems are engineered with quality cells, weatherproof housings, and dependable battery backup for consistent performance."
+    },
+    {
+      "order": "2",
+      "heading": "Design-driven installation guidance",
+      "paragraph": "We help you choose fixtures, layout, and mounting options so your space is illuminated efficiently and attractively."
+    },
+    {
+      "order": "3",
+      "heading": "Commercial and residential sourcing",
+      "paragraph": "From single-unit garden lights to bulk packages, our range supports both home improvement and business requirements."
+    }
+  ]
+}
