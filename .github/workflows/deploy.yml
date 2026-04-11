@@ -29,13 +29,10 @@ jobs:
       - name: Install dependencies
         run: npm ci --prefer-offline
 
-      - name: Fetch data
-        run: npm run fetch-data
-        env:
-          GOOGLE_SHEET_URL: ${{ secrets.GOOGLE_SHEET_URL }}
-
       - name: Build
         run: npm run build
+        env:
+          GOOGLE_SHEET_URL: ${{ secrets.GOOGLE_SHEET_URL }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
