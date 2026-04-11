@@ -35,6 +35,11 @@ jobs:
       - name: Build application
         run: npm run build
 
+      - name: Configure Git (Fix author identity issue)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Deploy to GitHub Pages
         run: npx gh-pages -d dist
         env:
